@@ -1,3 +1,5 @@
 first line - cmd prompt - local
 second line - github gui
 third line - cmd prompt - 10:17am
+*********************
+first line post branch creation - github gui 11:24 AM
