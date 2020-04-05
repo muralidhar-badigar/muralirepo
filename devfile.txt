@@ -1,3 +1,0 @@
-first line - cmd prompt - local
-second line - github gui
-third line - cmd prompt - 10:17am
